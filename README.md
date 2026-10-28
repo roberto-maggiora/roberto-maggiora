@@ -5,6 +5,8 @@ Founder and product leader based in Italy. I build software that helps teams sta
 ## What I'm working on
 **Hawk Safety**: a multi-tenant platform for digital food-safety compliance and environmental monitoring (sensors, HACCP checks, alerts and audit reports), used in hospitality, healthcare and education, including NHS and university sites. It runs on TypeScript, React, Fastify and PostgreSQL, with React Native apps for the shop floor. The code is private, but there is a public demo-assets repo: [sense-demo-assets](https://github.com/roberto-maggiora/sense-demo-assets).
 
+**Want to see the app?** Sense Checks Lite is free on the App Store and Google Play. It's the HACCP checks app from Hawk Safety: temperature checks, checklists and corrective actions.
+
 ## Tools for schools
 I also build small, practical tools for teachers (in Italian):
 - [escape-room-edu](https://github.com/roberto-maggiora/escape-room-edu): generate printable or digital escape rooms from the curriculum
