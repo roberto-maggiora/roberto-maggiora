@@ -1,6 +1,6 @@
 # Hi, I'm Roberto
 
-Founder and product leader based in Taranto, Italy. I build software that helps teams stay on top of what matters: compliance, monitoring and everyday operations.
+Founder and product leader based in Italy. I build software that helps teams stay on top of what matters: compliance, monitoring and everyday operations.
 
 ## What I'm working on
 **Hawk Safety**: a multi-tenant platform for digital food-safety compliance and environmental monitoring (sensors, HACCP checks, alerts and audit reports), used in hospitality, healthcare and education, including NHS and university sites. It runs on TypeScript, React, Fastify and PostgreSQL, with React Native apps for the shop floor. The code is private, but there is a public demo-assets repo: [sense-demo-assets](https://github.com/roberto-maggiora/sense-demo-assets).
